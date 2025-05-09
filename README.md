@@ -24,27 +24,3 @@ This project is great for beginners learning about GUI development with `tkinter
 - **JSON** – For saving and loading task data
 
 > No external libraries required! Everything used comes pre-installed with Python.
-
----
-
-## 📁 File Structure
-
-
-## 🧩 Features
-
-- ✅ Add new tasks  
-- 📝 Edit existing tasks  
-- ❌ Delete tasks  
-- ✔️ Mark tasks as completed  
-- 💾 Tasks saved in `tasks.json` for persistence  
-- 🖼️ Simple and intuitive GUI using Tkinter  
-
----
-
-## 🛠️ Technologies Used
-
-- **Python 3.x**
-- **Tkinter** – For building the graphical user interface
-- **JSON** – For saving and loading task data
-
-> No external libraries required! Everything used comes pre-installed with Python.

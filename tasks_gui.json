@@ -1,0 +1,14 @@
+[
+    {
+        "task": "python programming",
+        "completed": true,
+        "category": "Study",
+        "priority": "High"
+    },
+    {
+        "task": "Micro It internship",
+        "completed": false,
+        "category": "Study",
+        "priority": "High"
+    }
+]
